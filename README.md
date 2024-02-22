@@ -22,3 +22,6 @@ Elastic IP: A public IPv4 address that is always the same and that you can link 
 
 
 After making and setting these parts, your VPC will have public and private subnets, an Internet gateway for public access, a NAT gateway for private access, custom route tables, and Elastic IPs for static public addresses.
+
+
+![image](https://github.com/phibiam/AWS-VPC-with-Terraform/assets/24440690/da981936-c9f2-4c65-bed7-a10b24942cb8)
